@@ -30,6 +30,10 @@ a:hover + p{
 }
 img:hover{
   color: white;
+  border-radius: 100%;
+  border-width: medium;
+  border-color: pink;
+  margin: 5px;;
 }
 h1:hover{
   color:gold;
@@ -44,4 +48,20 @@ h1:hover hov {
 
 h1:hover:before {
   content:"HAPPY BIRTHDAY TO YOU"
+}
+#audio
+{
+  border-color: green;
+  margin: 20px;
+  border-bottom: dotted;
+  border-bottom-width: thick;
+  border-width: 20px;
+  width: 200px;
+
+
+
+}
+audio:hover
+{
+  color:grey;
 }
