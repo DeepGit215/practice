@@ -28,13 +28,6 @@ h1,h2,h3,h4,h5
 a:hover + p{
   color:red;
 }
-img:hover{
-  color: white;
-  border-radius: 100%;
-  border-width: medium;
-  border-color: pink;
-  margin: 5px;;
-}
 h1:hover{
   color:gold;
   font-style: italic;
